@@ -1,21 +1,17 @@
-# Rule-Based Chatbot
+# AI Tic Tac Toe
 
 ## Description
-
-A simple AI chatbot built using Python that responds to user queries based on predefined rules.
+An AI-based Tic Tac Toe game developed using Python where a player competes against the computer.
 
 ## Features
-
-* Greetings
-* AI Information
-* Machine Learning Information
-* Help Command
-* Exit Command
+- Player vs Computer
+- AI Move Generation
+- Win Detection
+- Draw Detection
+- Input Validation
 
 ## Technologies Used
-
-* Python
+- Python
 
 ## Author
-
 Akshat Kumar Jha

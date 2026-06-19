@@ -1,14 +1,13 @@
-# AI Tic Tac Toe
+# Recommendation System
 
 ## Description
-An AI-based Tic Tac Toe game developed using Python where a player competes against the computer.
+A simple recommendation system built using Python that suggests movies based on the user's preferred genre.
 
 ## Features
-- Player vs Computer
-- AI Move Generation
-- Win Detection
-- Draw Detection
-- Input Validation
+- Genre Based Recommendations
+- User Input Handling
+- Multiple Categories
+- Easy to Use
 
 ## Technologies Used
 - Python

@@ -1,13 +1,15 @@
-# Recommendation System
+# AI Tic Tac Toe
 
 ## Description
-A simple recommendation system built using Python that suggests movies based on the user's preferred genre.
+An AI-powered Tic Tac Toe game built using Python. The user plays against an intelligent computer opponent that uses the Minimax Algorithm to make optimal moves.
 
 ## Features
-- Genre Based Recommendations
-- User Input Handling
-- Multiple Categories
-- Easy to Use
+- Human vs AI Gameplay
+- Minimax Algorithm
+- Intelligent Decision Making
+- Win Detection
+- Draw Detection
+- Input Validation
 
 ## Technologies Used
 - Python
